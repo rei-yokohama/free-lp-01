@@ -96,7 +96,7 @@
     //Counters
 
     // counter finished Projects
-    var maxfPVal = 340;
+    var maxfPVal = 34;
     var ifP = parseInt($(".fpVal").text());
     var timfP;
     function runfP() {
@@ -112,7 +112,7 @@
     //finished Projects
 
     //counter Team Members
-    var maxtMVal = 18;
+    var maxtMVal =5;
     var itm = parseInt($(".tMVal").text());
     var timtM;
     function runtM() {
@@ -128,7 +128,7 @@
     //Team Members
 
     //counter blog post
-    var maxbPVal = 500;
+    var maxbPVal = 50;
     var ibP = parseInt($(".bPVal").text());
     var timbP;
     function runbP() {
